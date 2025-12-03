@@ -3,4 +3,4 @@
 
 今後いくらか情報を充実させていきます．
 ## 内部向け
-[wiki]()
+[wiki](https://github.com/science-tokyo-matsushita-lab/wiki)

@@ -3,4 +3,4 @@
 
 We'll be adding some more information in the future.
 ## Pages for all concerned parties
-[wiki]()
+[wiki](https://github.com/science-tokyo-matsushita-lab/wiki)
